@@ -1,22 +1,25 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Sistema de Facturacion
 
-> One paragraph statement about the project.
+> Sistema de facturacion realizado en php, mysql, javascript y codeigniter.
 
 ![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot2.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: PHP, JavaScript, jquery, AJAX, HTML5, CSS, MySQl.
+- Frameworks: CodeIgniter 4
+- Technologies used: 000webhost (hosting), Bootstrap, FPDF.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://proyectoumc.000webhostapp.com/)
+
+Para ingresar al sistema se coloca en el usuario "admin" y luego la contraseña es "admin01" sin comillas.
 
 
 ## Getting Started
@@ -38,16 +41,14 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-
+http://proyectoumc.000webhostapp.com/
 
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Gabrielle Jesus Brizuela Guacache**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@GabrielleMrRobot](https://github.com/GabrielleMrRobot)
 
 👤 **Author2**
 
