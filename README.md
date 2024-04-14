@@ -50,11 +50,6 @@ http://proyectoumc.000webhostapp.com/
 
 - GitHub: [@GabrielleMrRobot](https://github.com/GabrielleMrRobot)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
